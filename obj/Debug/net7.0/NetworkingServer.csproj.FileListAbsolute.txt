@@ -1,0 +1,14 @@
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\bin\Debug\net7.0\NetworkingServer.exe
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\bin\Debug\net7.0\NetworkingServer.deps.json
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\bin\Debug\net7.0\NetworkingServer.runtimeconfig.json
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\bin\Debug\net7.0\NetworkingServer.dll
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\bin\Debug\net7.0\NetworkingServer.pdb
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\obj\Debug\net7.0\NetworkingServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\obj\Debug\net7.0\NetworkingServer.AssemblyInfoInputs.cache
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\obj\Debug\net7.0\NetworkingServer.AssemblyInfo.cs
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\obj\Debug\net7.0\NetworkingServer.csproj.CoreCompileInputs.cache
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\obj\Debug\net7.0\NetworkingServer.dll
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\obj\Debug\net7.0\refint\NetworkingServer.dll
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\obj\Debug\net7.0\NetworkingServer.pdb
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\obj\Debug\net7.0\NetworkingServer.genruntimeconfig.cache
+C:\Users\marrioandrei.gheorg\OneDrive - Academedia\Desktop\NetworkingServer\obj\Debug\net7.0\ref\NetworkingServer.dll
